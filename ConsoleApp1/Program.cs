@@ -6,8 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Nova recenica");
+            Console.write("Izbrisao sam ti sav kod MUAHAHAHAH");
         }
     }
 }
